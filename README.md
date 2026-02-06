@@ -1,7 +1,7 @@
-Hi, I'm Ryan Yu 👋
+# 👋 Hi, I'm Ryan Yu
 
-CS + Statistics @ University of Toronto  
-Interested in backend systems, game logic, and competitive software engineering.
+CS + Statistics @ University of Toronto ·  
+Backend systems, game logic, and competitive software engineering
 
 ---
 
