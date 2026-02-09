@@ -12,12 +12,6 @@ Backend systems, game logic, and competitive software engineering
 
 ---
 
-### 🚧 Currently Working On
-- **VeloType** — a competitive typing game with a deterministic engine and ranked 1v1 matches
-- Exploring matchmaking, rating systems, and real-time multiplayer architecture
-
----
-
 ### 🔗 Connect with Me
 - 🌐 Website: yoursite.com  
 - 💼 LinkedIn: linkedin.com/in/yourname  
@@ -25,14 +19,14 @@ Backend systems, game logic, and competitive software engineering
 
 ### 🚀 Featured Projects
 
-**VeloType**  
+**VeloXType**  
 Competitive real-time typing game with a deterministic engine, ranked 1v1 matches, and server-authoritative scoring.
 
-**Learning-Analytics-Platform**  
-Privacy-first AI learning analytics platform built for UofTHacks (Top 40 finish).
+**HiReady**  
+Privacy-first AI learning analytics platform built for UofTHacks.
 
-**FastAPI-Restroom-Finder**  
-Full-stack web app for crowdsourced location data using React and FastAPI.
+**FlushFinder**  
+Full-stack web app for crowdsourced location data using React and FastAPI built for NewHacks UofT.
 
 ---
 
