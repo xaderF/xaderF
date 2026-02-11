@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Ryan Yu
 
 CS + Statistics @ University of Toronto ·  
-Backend systems, game logic, and competitive software engineering
+FullStack, game logic, and software engineering
 
 ---
 
@@ -13,9 +13,9 @@ Backend systems, game logic, and competitive software engineering
 ---
 
 ### 🔗 Connect with Me
-- 🌐 Website: yoursite.com  
-- 💼 LinkedIn: linkedin.com/in/yourname  
-- ✉️ Email: your@email.com
+- 🌐 Website: https://ryanportfoliowebsite.vercel.app/  
+- 💼 LinkedIn: https://www.linkedin.com/in/ryan-yu-383721273/ 
+- ✉️ Email: ryanyu365@gmail.com
 
 ### 🚀 Featured Projects
 
