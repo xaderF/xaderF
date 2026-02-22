@@ -23,10 +23,7 @@ FullStack, game logic, and software engineering
 Competitive real-time typing game with a deterministic engine, ranked 1v1 matches, and server-authoritative scoring.
 
 **HiReady**  
-Privacy-first AI learning analytics platform built for UofTHacks.
-
-**FlushFinder**  
-Full-stack web app for crowdsourced location data using React and FastAPI built for NewHacks UofT.
+Privacy-first AI HR training analytics platform built during UofTHacks.
 
 ---
 
