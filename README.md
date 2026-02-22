@@ -15,7 +15,7 @@ FullStack, game logic, and software engineering
 ### 🔗 Connect with Me
 - 🌐 Website: https://ryanportfoliowebsite.vercel.app/  
 - 💼 LinkedIn: https://www.linkedin.com/in/ryan-rui-yu/
-- ✉️ Email: ryanyu365@gmail.com
+- ✉️ Email: ryanrui.yu@mail.utoronto.ca, ryanyu365@gmail.com
 
 ### 🚀 Featured Projects
 
