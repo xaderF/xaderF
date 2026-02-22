@@ -14,7 +14,7 @@ FullStack, game logic, and software engineering
 
 ### 🔗 Connect with Me
 - 🌐 Website: https://ryanportfoliowebsite.vercel.app/  
-- 💼 LinkedIn: https://www.linkedin.com/in/ryan-yu-383721273/ 
+- 💼 LinkedIn: https://www.linkedin.com/in/ryan-rui-yu/
 - ✉️ Email: ryanyu365@gmail.com
 
 ### 🚀 Featured Projects
