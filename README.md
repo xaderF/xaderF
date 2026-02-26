@@ -2,8 +2,6 @@
 
 Welcome to my GitHub. I'm a Computer Science and Statistics student at the University of Toronto interested in building full-stack systems with a strong focus on performance, correctness, scalability, and privacy.
 
-I care about how software behaves under real constraints such as latency, concurrency, and state consistency, not just whether it works.
-
 Most of my projects explore real-time systems, backend architecture, and AI-integrated tools. I enjoy designing systems that are responsive, reliable, and cleanly structured from both a technical and user perspective.
 
 Outside of infrastructure work, I'm also interested in indie game development, particularly competitive systems and game mechanics.
