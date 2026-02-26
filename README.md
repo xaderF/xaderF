@@ -19,13 +19,18 @@ FullStack, game logic, and software engineering
 
 ### 🚀 Featured Projects
 
-**VeloXType**  
-Competitive real-time typing game with a deterministic engine, ranked 1v1 matches, and server-authoritative scoring.
+### 🔥 VeloXType (v1.1 Live)
+Real-time competitive typing platform with deterministic engine and ranked 1v1 multiplayer.
 
-**HiReady**  
-Privacy-first AI HR training analytics platform built during UofTHacks.
+### ⚡ InstaReply
+Event-driven Instagram auto-reply system with idempotent webhook handling and reliable backend processing.
+
+### 🌌 HiReady
+AI-powered HR training analytics platform built at UofTHacks.
 
 ---
 
-### 📌 Currently Working On
-- VeloType Phase 2: matchmaking, rating system, and real-time multiplayer infrastructure
+## 📌 Currently Working On
+- VeloXType Phase 5: Battle Royale mode + elimination mechanics  
+- VeloXType Phase 7: Profiles, cosmetics, store, friends system  
+- Lumo Overlay: Lightweight animated desktop companion
