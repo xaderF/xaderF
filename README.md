@@ -24,15 +24,15 @@ Outside of infrastructure work, I'm also interested in indie game development, p
 
 ### 🚀 Featured Projects
 
-🔥 VeloXType (v1.1 Live)
+- 🔥 VeloXType (v1.1 Live)
   - Real-time ranked 1v1 typing platform with a deterministic engine, server-authoritative state, and WebSocket-based multiplayer built for low latency fairness and concurrency.
   - **Tech:** React, TypeScript, Fastify, WebSockets, PostgreSQL, Prisma
 
-⚡ InstaReply
+- ⚡ InstaReply
   - Event-driven Instagram auto-reply system with idempotent webhook handling and reliable backend pipelines for safe, duplicate-free AI message processing.
   - **Tech:** Fastify, Prisma, PostgreSQL, Meta Webhooks, LLM integration
 
-🌌 HiReady
+- 🌌 HiReady
   - AI-powered training analytics platform that analyzes video engagement, retention curves, and quiz performance using multimodal AI tools.
   - **Tech:** React, Flask/Node, TwelveLabs, Backboard AI, Cloud storage
 
