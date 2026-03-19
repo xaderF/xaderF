@@ -37,6 +37,4 @@ Outside of infrastructure work, I'm also interested in indie game development, p
 ---
 
 ## 📌 Currently Working On
-- VeloXType Phase 5: Battle Royale mode + elimination mechanics  
-- VeloXType Phase 7: Profiles, cosmetics, store, friends system  
-- Lumo Overlay: Lightweight animated desktop companion
+- Lumo Overlay: Lightweight animated AI desktop companion
